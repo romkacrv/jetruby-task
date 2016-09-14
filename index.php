@@ -27,9 +27,7 @@
 </head>
 <body>
 <div class="page">
-  <div class="tiles">
-    <div class="tile"></div>
-  </div>
+  
 </div>
 </body>
 </html>
