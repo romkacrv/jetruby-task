@@ -1,4 +1,3 @@
-//js
 (function ($) {
 
   var jt = {
