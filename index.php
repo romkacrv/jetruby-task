@@ -7,7 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <![endif]-->
 
-  <title>Jetruby task</title>
+  <title>js task</title>
 
   <meta name="viewport" content="width=device-width, user-scalable=yes">
 
