@@ -1,1 +1,1 @@
-# jetruby-task
+# js-task
